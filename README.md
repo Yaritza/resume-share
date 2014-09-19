@@ -1,4 +1,4 @@
-This will be a single page app built to share a user's resume and virtual business card given a recipient's valid  email address. This is a single page  app that uses an Angular.js framework.
+This is a single page app which will allow the user to share a resume and/or virtual business card given a recipient's valid  email address. This app is built using an Angular.js framework.
 
 
 
